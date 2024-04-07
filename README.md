@@ -1,6 +1,6 @@
 # Last.file
 
-# вот ссылка на Github https://github.com/doniyorjumaniyazov/Last.file 
+# вот ссылка на Github https://github.com/doniyorjumaniyazov/last_task 
 
 * вот что делалы
 
