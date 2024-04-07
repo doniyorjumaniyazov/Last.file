@@ -2,6 +2,8 @@
 
 # вот ссылка на Github https://github.com/doniyorjumaniyazov/last_task 
 
+ссилка https://github.com/doniyorjumaniyazov/Last.file
+
 * вот что делалы
 
 1 Создалы в Github репозиторий внутри него создалы Readme.md файл
